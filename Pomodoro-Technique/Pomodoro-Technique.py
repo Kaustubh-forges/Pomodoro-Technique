@@ -1,10 +1,11 @@
 #------------------------- POMODORO TECHNIQUE PROJECT-------------------------
 
-#------------------------- MODULES IMPORTED-----------------------------------
-from tkinter import * # Imports everything from "tkinter" module
-import winsound # Produces sound effect
-import time # Shows time for countdown
 import math
+import time  # Shows time for countdown
+# ------------------------- MODULES IMPORTED-----------------------------------
+from tkinter import *  # Imports everything from "tkinter" module
+
+import winsound  # Produces sound effect
 
 # ---------------------------- CONSTANTS ------------------------------------
 PINK = "#e2979c"
