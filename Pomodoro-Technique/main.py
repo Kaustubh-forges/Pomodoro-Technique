@@ -118,10 +118,10 @@ canvas.grid(row=1,column=1)
 
 
 #designing the buttons: start and reset
-start=Button(text="start",font=("Ariel",12,"bold"),command=start_clicked)
+start=Button(text="Start",font=("Ariel",12,"bold"),command=start_clicked)
 start.grid(row=3,column=0)
 
-reset=Button(text="reset",font=("Ariel",12,"bold"),command=reset_timer)
+reset=Button(text="Reset",font=("Ariel",12,"bold"),command=reset_timer)
 reset.grid_configure(column=3,row=3)
 
 #Setting up a label
