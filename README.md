@@ -23,7 +23,7 @@
    ```bash
    git clone https://github.com/Kaustubh-forges/Pomodoro-Technique.git
    cd Pomodoro-Technique
-   python Pomodoro-Technique.py
+   python Pomodoro_Timer.py
    ```
 3. You can also run the code in an IDLE such as Visual Studio Code or PyCharm
 
